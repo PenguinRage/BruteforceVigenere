@@ -34,5 +34,6 @@ Check for Dictionary matches using a score. *For the example, 70 or above gives 
 python detectEnglish.py <file_name> <score>
 ```
 
-The higher the score reflects the accuracy towards matching words from the dictionary sowpods.txt
+The higher the score reflects the accuracy towards matching words from the dictionary *sowpods.txt*
+After running both scripts you should be left with a final result being the unencrypted message.
 
