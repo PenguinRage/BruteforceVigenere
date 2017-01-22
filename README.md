@@ -7,15 +7,18 @@ This Github repository contains the code to bruteforce Vigenère cipher encrypte
 Through two simple steps we compute all possible messages and then determine out of all possible calculations which is the real message.
 By obtaining the actual message we can also determine the decryption key and would no longer need to bruteforce the attempt again should the encryption method be the same with the same encryption key.
 
-## Example
-Below is some encrypted text. Without knowing the actual encryption or decryption key we intend to find out what the message contains:
-```
-WJHZR DIAKZ TMCYS OMLVY HISNF BNZRP
-OESFJ RVLWL MIPOA LJAKD SQWLH KYSCN
-RMHPB OQNQQ MNBXC CACJN BOVVT LAUWJ
-RNISI FFBJO WZWIV NCWQM AUEEX TNOMR
-JIIYH ISNWD Y
-```
-
 ## Requirements
 * Python 2.7
+
+## Given Example
+Below is some encrypted text. Without knowing the actual encryption or decryption key we intend to find out what the message contains:
+  
+  WJHZR DIAKZ TMCYS OMLVY HISNF BNZRP
+  OESFJ RVLWL MIPOA LJAKD SQWLH KYSCN
+  RMHPB OQNQQ MNBXC CACJN BOVVT LAUWJ
+  RNISI FFBJO WZWIV NCWQM AUEEX TNOMR
+  JIIYH ISNWD Y
+
+
+
+
