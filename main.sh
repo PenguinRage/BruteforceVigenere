@@ -1,4 +1,4 @@
-#!/bin/env
+#!/bin/sh
 
 exec python brutefore_decrypt.py
 
